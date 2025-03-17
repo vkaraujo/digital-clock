@@ -8,7 +8,7 @@
 Check out the deployed app on Vercel:  
 👉 [React Movies on Vercel](https://digital-clock-alpha-six.vercel.app/)
 
-## 🚀 Technologies Used
+## 📦 Technologies Used
 - **React** – JavaScript library for building UI components.
 - **CSS** – Styles the clock display.
 - **JavaScript (ES6+)** – Handles date and time updates.
