@@ -6,7 +6,7 @@
 ## 🚀 Live Demo
 
 Check out the deployed app on Vercel:  
-👉 [React Movies on Vercel](https://digital-clock-alpha-six.vercel.app/)
+👉 [Digital Clock on Vercel](https://digital-clock-alpha-six.vercel.app/)
 
 ## 📦 Technologies Used
 - **React** – JavaScript library for building UI components.
